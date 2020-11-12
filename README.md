@@ -21,7 +21,7 @@
 - 接入第三方新闻 API
 
 ## Gradle 相关问题
-由于本项目所用的 Android Studio 版本号是 3.6.1，其对应的 Gradle
+本项目所用的 Android Studio 版本号是 3.6.1，其对应的 Gradle
 版本号应为 6.4，因此需要编译 ` build.gradle` 文件。
 
 ## 致谢
