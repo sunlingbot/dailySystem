@@ -1,7 +1,7 @@
 # dailySystem 
 ![GPL3.0](https://img.shields.io/github/license/sunlingbot/dailySystem) ![DART](https://img.shields.io/badge/Language-Dart-brightgreen)
 
-针对于传统移动端应用开发技术带来的局限性，提出使用 `Flutter` 移动跨平台框架开发一个简易的日报系统，使用 Material 风格编写 UI 样式，支持日间/夜间模式的切换，初版功能实现新闻资讯推送、内容查询、用户主页的功能
+针对于传统移动端应用开发技术带来的局限性，提出使用 `Flutter` 移动跨平台框架开发一个简易的日报系统，使用 Material 风格编写 UI 样式，支持日间/夜间模式的切换，初版功能实现新闻资讯推送、内容查询、用户主页的功能。
 
 ## 开发环境
 
